@@ -3,6 +3,8 @@ react编写的Web端上拉加载组件。主流的无限加载一般都是只支
 
 使用方式：
 ```
+import InfiniteScroll from './InfiniteScroll'
+
 <InfiniteScroll
   loading={loading} 
   hasMore={hasMore}
