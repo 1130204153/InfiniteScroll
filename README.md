@@ -24,10 +24,10 @@ import InfiniteScroll from './InfiniteScroll'
 </InfiniteScroll>
 ```
 
-参数说明：
-loading：非必须，加载状态
-hasMore：必须，是否还需要分页
-next：必须，上拉到顶端时的回调
-autoToButtom：非必须，默认为false，数据变化时是否自动跳转到列表尾部
-length：必须，数据的长度
-height：必须，传入类型为字符串
+## 参数说明： <br/>
+loading：非必须，加载状态 <br/>
+hasMore：必须，是否还需要分页 <br/>
+next：必须，上拉到顶端时的回调 <br/>
+autoToButtom：非必须，默认为false，数据变化时是否自动跳转到列表尾部 <br/>
+length：必须，数据的长度 <br/>
+height：必须，传入类型为字符串 <br/>
